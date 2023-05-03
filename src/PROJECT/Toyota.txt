@@ -1,0 +1,10 @@
+Toyota : Corolla 	    seat: 5	    price per day : 1200.0
+Toyota : Camry 	        seat: 5	    price per day : 1100.0
+Toyota : RAV4 	        seat: 5	    price per day : 1000.0
+Toyota : Highlander 	seat: 7	    price per day : 1500.0
+Toyota : Sienna 	    seat: 8	    price per day : 1800.0
+Toyota : Tacoma 	    seat: 4	    price per day : 1000.0
+Toyota : Tundra 	    seat: 6	    price per day : 1200.0
+Toyota : 4Runner 	    seat: 7	    price per day : 1500.0
+Toyota : Prius 	        seat: 5	    price per day : 1000.0
+1Toyota : C-HR 	        seat: 5	    price per day : 1000.0

@@ -1,0 +1,10 @@
+BMW : 3-series 	    seat: 5	    price per day : 1200.0
+BMW : 5-series 	    seat: 5	    price per day : 1500.0
+BMW : X1 	        seat: 5	    price per day : 1400.0
+BMW : X3 	        seat: 5	    price per day : 1200.0
+BMW : X5 	        seat: 5	    price per day : 1200.0
+BMW : X6 	        seat: 5	    price per day : 1200.0
+BMW : 7-Series 	    seat: 5	    price per day : 1200.0
+BMW : i3 	        seat: 5	    price per day : 1200.0
+BMW : 2-Series 	    seat: 5	    price per day : 1200.0
+BMW : Z4 	        seat: 5	    price per day : 1200.0

@@ -1,0 +1,10 @@
+Honda : Civic 	    seat: 5	    price per day : 1100.0
+Honda : Accord 	    seat: 5	    price per day : 1000.0
+Honda : HR-V 	    seat: 5	    price per day : 1000.0
+Honda : CR-V 	    seat: 5	    price per day : 1000.0
+Honda : Pilot 	    seat: 7	    price per day : 1500.0
+Honda : Odyssey 	seat: 7	    price per day : 1500.0
+Honda : Ridgeline 	seat: 5	    price per day : 1000.0
+Honda : Insight 	seat: 5	    price per day : 1000.0
+Honda : Clarity 	seat: 5	    price per day : 1000.0
+Honda : Passport 	seat: 5	    price per day : 1000.0

@@ -1,0 +1,10 @@
+Mitsubishi : Mirage 	        seat: 5	    price per day : 1200.0
+Mitsubishi : Eclipse 	        seat: 5	    price per day : 1000.0
+Mitsubishi : Outlander 	        seat: 7	    price per day : 1600.0
+Mitsubishi : Outlander-Sport 	seat: 5	    price per day : 1000.0
+Mitsubishi : ASX 	            seat: 5	    price per day : 1000.0
+Mitsubishi : Pajero 	        seat: 7	    price per day : 1600.0
+Mitsubishi : Lancer 	        seat: 5	    price per day : 1200.0
+Mitsubishi : Galant 	        seat: 5	    price per day : 1100.0
+Mitsubishi : i-MiEV 	        seat: 4	    price per day : 1000.0
+Mitsubishi : Trito 	            seat: 5	    price per day : 1000.0

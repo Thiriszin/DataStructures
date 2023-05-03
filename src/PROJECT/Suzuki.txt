@@ -1,0 +1,10 @@
+Suzuki : Swift 	    seat: 5	    price per day : 1000.0
+Suzuki : Vitara 	seat: 5	    price per day : 1100.0
+Suzuki : Jimny 	    seat: 4	    price per day : 1000.0
+Suzuki : Baleno 	seat: 5	    price per day : 1000.0
+Suzuki : Celerio 	seat: 5	    price per day : 1000.0
+Suzuki : Ignis 	    seat: 5	    price per day : 1000.0
+Suzuki : S-Cross 	seat: 5	    price per day : 1000.0
+Suzuki : Kizashi 	seat: 5	    price per day : 1000.0
+Suzuki : SX4 	    seat: 5	    price per day : 1000.0
+Suzuki : Ertiga 	seat: 7	    price per day : 1500.0
